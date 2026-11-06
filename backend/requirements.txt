@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]>=3.2,<4
+openpyxl>=3.1,<4
+alembic
+pydantic
+pydantic-settings
+python-dotenv
+python-jose[cryptography]
+PyJWT>=2.8,<3
+pwdlib[argon2]
+python-multipart
+email-validator
