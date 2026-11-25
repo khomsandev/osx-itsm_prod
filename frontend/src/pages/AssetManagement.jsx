@@ -1599,7 +1599,7 @@ export default function AssetManagement({
                                 <tbody>
                                     {loading ? (
                                         <tr>
-                                            <td colSpan={9}>
+                                            <td colSpan={10}>
                                                 <div className="empty-state">
                                                     กำลังโหลดข้อมูล Asset...
                                                 </div>
