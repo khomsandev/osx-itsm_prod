@@ -290,6 +290,7 @@
 
     .osx-asset-label {
         outline: none;
+        border: 0.2mm dashed #000;
         margin: 0;
 
         print-color-adjust: exact;
